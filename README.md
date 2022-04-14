@@ -19,5 +19,4 @@ My name is Edgar Uco, I'm full-stack developer (MERN) and I recently learning Py
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 # 🌍 Contact 👨‍💻 :
-
 [![Email](https://img.shields.io/badge/edgarin@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:edgarin@gmail.com)
