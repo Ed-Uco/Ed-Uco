@@ -12,4 +12,4 @@ My name is Edgar Uco, I'm an IT Engineer with experience in Back End technologie
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 # 🌍 Contact 👨‍💻 :
-[![Email](https://img.shields.io/badge/edgarin@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:edgar.uco.gomez@gmail.com)
+[![Email](https://img.shields.io/badge/edgar.uco.gomez@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:edgar.uco.gomez@gmail.com)
